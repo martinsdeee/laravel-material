@@ -20,6 +20,6 @@ Route::group(['middleware' => ['web']], function () {
 
     Route::auth();
 
-    Route::get('/dashboard', 'HomeController@index');
+    Route::get('/dashboard', 'DashboardController@index');
 
 });
