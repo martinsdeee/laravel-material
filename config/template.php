@@ -18,7 +18,7 @@ return [
     'company' => 'Tattvika',
     'product' => 'Laravel Material',
     'brand' => 'Tattvika',
-    'tagline' => [
+    'benefits' => [
         'Powerful back-end framework',
         'Clean design based on Material Design',
         'Start develop your application here',
