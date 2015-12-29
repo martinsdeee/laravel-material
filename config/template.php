@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'primary-color' => 'lime',
+    'primary-color' => 'red',
 
     'company' => 'Tattvika',
     'product' => 'Laravel Material',
@@ -21,6 +21,6 @@ return [
     'tagline' => [
         'Powerful back-end framework',
         'Clean design based on Material Design',
-        'Your application starting point',
+        'Start develop your application here',
     ],
 ];

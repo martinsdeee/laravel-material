@@ -6,7 +6,7 @@
         height:100vh;
     }
 </style>
-<div class="section no-pad-bot valign-wrapper {{ Config::get('template.primary-color') }}" id="index-banner">
+<div class="section no-pad-bot valign-wrapper" id="index-banner">
     <div class="container">
         <div class="row">
             <div class="col s12 center-align">
