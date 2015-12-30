@@ -6,12 +6,19 @@
             Profile
         </a>
     </li>
+    <!-- <li>
+        <a href="#!">
+            <i class="material-icons left">notifications</i>
+            Notifications
+            <span class="badge new">23</span>
+        </a>
+    </li>
     <li>
         <a href="#!">
             <i class="material-icons left">settings</i>
             Settings
         </a>
-    </li>
+    </li> -->
     <li class="divider"></li>
     <li>
         <a href="{{ url('/logout') }}">

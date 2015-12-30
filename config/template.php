@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'primary-color' => 'red',
+    'primary-color' => 'green',
 
     'company' => 'Tattvika',
     'product' => 'Laravel Material',
